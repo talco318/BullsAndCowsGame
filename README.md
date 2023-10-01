@@ -38,14 +38,15 @@ The size of the table - after reducing each guessing round
 
 
 
+**Final result:**
+
+![image](https://user-images.githubusercontent.com/12784722/216627386-21bb2682-1d54-4cd5-9deb-2ad667a56bf9.png)![image](https://user-images.githubusercontent.com/12784722/216627415-076b22c6-aa3d-4e83-b2e2-fae65e72c78b.png)
+
+
+
+
 ## Contributions and Feedback: 
 Contributions and feedback are welcomed! Please reach out if you'd like to help expand this project.
 
 ## Connect with Me: 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/talco318/ "Tal Cohen in LinkedIn").
-
-
-**Final result:**
-
-![image](https://user-images.githubusercontent.com/12784722/216627386-21bb2682-1d54-4cd5-9deb-2ad667a56bf9.png)![image](https://user-images.githubusercontent.com/12784722/216627415-076b22c6-aa3d-4e83-b2e2-fae65e72c78b.png)
-
